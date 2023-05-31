@@ -68,3 +68,5 @@
      ✔️ @forward는 파샬을 묶어줌. style.scss에서는 _index.scss를 호출하여 사용함.
 ![image](https://github.com/kgy424/react_basic/assets/129706828/d1b5ed4a-7486-44a1-ad01-e63eaa8436d5)
 
+    ✔️ *(와일드카드) 를 붙이면 이름을 생략할 수 있음.
+![image](https://github.com/kgy424/react_basic/assets/129706828/0fb9fb10-ef13-496c-b02f-b0d7779a499a)
