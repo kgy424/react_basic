@@ -29,3 +29,27 @@
 # 함수를 밖으로 빼기
 
 ![image](https://github.com/kgy424/react_basic/assets/129706828/7eb696c4-2ea4-425d-b655-88eb49b6c957)
+
+
+# 클릭하면 함수 실행(Event Handler)
+![image](https://github.com/kgy424/react_basic/assets/129706828/42d45a21-56aa-47ef-8107-b6d3605d3f2c)
+
+
+  ➡ 화살표 함수로 바꾸기
+
+![image](https://github.com/kgy424/react_basic/assets/129706828/8fd5fab3-735c-4290-83e7-c017b86fe2e7)
+
+
+# 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다.
+
+  ![image](https://github.com/kgy424/react_basic/assets/129706828/7b772a91-fb1d-4a34-b9cc-d4164e1885a2)
+  
+  react에서는 변수가 바뀐다고 해서 리랜더링이 일어나지 않는다.
+  ➡ 해결책) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다.
+  
+  ![image](https://github.com/kgy424/react_basic/assets/129706828/a5317c5a-765e-4f36-8e95-ca0aaa8080d8)
+
+
+  
+
+
