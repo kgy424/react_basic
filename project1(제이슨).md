@@ -17,4 +17,27 @@
 
     이게 원래꺼: json-server --watch db.json 밑에처럼 수정해줘야 함.
     
+    
     json-server --watch db.json -- 3004
+    
+
+    
+#### 혹시 실행 안 되면 npx 앞에 붙여서 실행.
+
+#### 이거 눌려봐
+![image](https://github.com/kgy424/react_basic/assets/129706828/e334caa4-2b3b-42d6-b0a5-ec9e8f97593a)
+
+
+# axios 설치
+![image](https://github.com/kgy424/react_basic/assets/129706828/1d50ea99-7a8d-4606-a100-74df417757c5)
+
+## 서버와 통신하기
+            npm i axios
+            
+            
+## 이거 복사해서 App.js 위에 넣기
+![image](https://github.com/kgy424/react_basic/assets/129706828/b723eb08-2d43-4dd0-bd39-41767bf17899)
+
+                  import axios from 'axios';
+                  
+![image](https://github.com/kgy424/react_basic/assets/129706828/9a4bf240-7efc-4d29-b5c2-38cec46f3282)
