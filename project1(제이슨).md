@@ -18,7 +18,7 @@
     이게 원래꺼: json-server --watch db.json 밑에처럼 수정해줘야 함.
     
     
-    json-server --watch db.json -- 3004
+    npx json-server --watch db.json --port 3004
     
 
     
