@@ -41,3 +41,6 @@
                   import axios from 'axios';
                   
 ![image](https://github.com/kgy424/react_basic/assets/129706828/9a4bf240-7efc-4d29-b5c2-38cec46f3282)
+
+
+
