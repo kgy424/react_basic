@@ -158,3 +158,6 @@ console이 미친듯이 생성되고 있음...?!!!
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/a06afa8c-2b9a-4c0f-8556-19b73d94225a)
 
+
+![image](https://github.com/kgy424/react_basic/assets/129706828/139d89f3-10ad-47d7-bb97-2778e223e81d)
+
